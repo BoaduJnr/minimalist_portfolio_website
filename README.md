@@ -6,6 +6,8 @@ Designs: https://www.figma.com/file/RlbB2sZYZx9pgj8CMz7tzP/minimalist-portfolio-
 
 URL: https://candyesinam.github.io/port/
 
+URL: https://hostport.netlify.app/
+
 
 File Structure:
 ```
